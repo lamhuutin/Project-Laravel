@@ -1,5 +1,5 @@
 # xop-pi
-Trang web bán hàng online
+Trang web bán hàng online.
 Font-end: html, css, bootstrap, js (jquery).
 Back-end: php (laravel), mysql.
 Dự án bao gồm 2 phần: Client (phía khách hàng) và Admin (Phía quản trị viên).
