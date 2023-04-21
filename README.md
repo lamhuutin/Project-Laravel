@@ -1,4 +1,4 @@
-# xop-pi
+# xop-pi (đồ án hoàn chỉnh tổng hợp font-end và back-end)
 Trang web bán hàng online.
 Font-end: html, css, bootstrap, js (jquery).
 Back-end: php (laravel), mysql.
